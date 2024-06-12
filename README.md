@@ -33,13 +33,13 @@ source ./bin/activate
 Create a virtual environment in the repository directory by running:
 
 ```
-python -m venv venv
+python -m venv .
 ```
 
 Activate the virtual environment with:
 
 ```
-.\venv\Scripts\activate
+.\Scripts\activate
 ```
 
 ### 2. Install Dependencies
