@@ -19,7 +19,7 @@ To set up the project environment and run the application, follow these steps:
 Create a virtual environment in the repository directory by running:
 
 ```
-python3 -m venv venv
+python3 -m venv .
 ```
 
 Activate the virtual environment with:
