@@ -25,7 +25,7 @@ python3 -m venv .
 Activate the virtual environment with:
 
 ```
-source venv/bin/activate
+source ./bin/activate
 ```
 
 #### For Windows:
